@@ -1,6 +1,6 @@
 my_string = ("Hello, GitHub!")
-my_list = [10 20 30 40 50]
-my_tuple = (100 200 300)
+my_list = [10, 20, 30, 40, 50,]
+my_tuple = (100, 200, 300,)
 
 print("String:", my_string)
 print("List:", my_list)
